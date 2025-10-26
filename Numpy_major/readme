@@ -1,0 +1,61 @@
+🧮 NumPy Main Project
+A hands-on project built using NumPy, focusing on numerical operations, data analysis, and array manipulations in Python.
+This notebook demonstrates how NumPy can simplify complex mathematical and data processing tasks efficiently.
+
+🎯 Objectives
+The main objectives of this project are to:
+1.Understand the fundamentals of NumPy arrays and their advantages over Python lists.
+2.Learn array creation, indexing, slicing, and reshaping operations.
+3.Perform mathematical, statistical, and logical computations using NumPy functions.
+4.Apply NumPy to simple real-world data analysis scenarios.
+
+🚀 Features
+1.Create and manipulate NumPy arrays
+2.Perform mathematical and statistical calculations
+3.Explore slicing, indexing, and reshaping arrays
+4.Demonstrate broadcasting and vectorization
+5.Compare NumPy arrays with Python lists in terms of speed and memory
+6.Use NumPy for small data analysis examples
+
+🚀 Getting Started Prerequisites 
+Python 3.8+ 
+Jupyter Notebook or JupyterLab 
+NumPy library
+
+Installation: 
+1.Clone the repository: git clone https://github.com/poojivelu/numpy-main-project.git 
+cd numpy-main-project
+
+2.Install dependencies: pip install numpy jupyter
+Running the Notebook 
+Option 1: Jupyter Notebook jupyter notebook numpy-main-project.ipynb
+Option 2: JupyterLab jupyter lab numpy-main-project.ipynb
+Option 3: Google Colab 1.Upload the .ipynb file to Google Drive 2.Open with Google Colab 3.Run all cells (Runtime → Run all)
+Option 4: VS Code 1.Install Python and Jupyter extensions 2.Open the .ipynb file 3.Select Python kernel and run cells
+
+📁 Project Structure:
+ numpy-major/ │ 
+├── numpy-main-project.ipynb # Main Jupyter notebook 
+├── README.md # Project documentation 
+├── requirements.txt # Python dependencies 
+└── LICENSE # License file
+
+📝 License This project is licensed under the MIT License - see the LICENSE file for details.
+
+Author: POOJITHA P
+GitHub: https://github.com/poojivelu 
+LinkedIn: www.linkedin.com/in/poojitha-p-861b36304 
+Email: poojithavelu06@gmail.com
+
+🙏 Acknowledgments NumPy documentation and community Jupyter Project for the amazing notebook interface Educational resources on array programming Open source contributors
+
+📚 Additional Resources NumPy Official Documentation Jupyter Notebook Documentation NumPy Tutorial for Beginners Python Data Science Handbook
+
+🐛 Troubleshooting Kernel Issues: 
+Restart kernel: Kernel → Restart & Clear Output Reinstall NumPy: pip install --upgrade numpy
+
+Import Errors: Ensure NumPy is installed: pip install numpy Check Python version compatibility
+
+Cell Not Running: Check if another cell is currently executing Restart the kernel and run again
+
+Happy Learning! 🎓
